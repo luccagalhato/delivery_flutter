@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1015544533696-hsgem1r69gche1ko5ci6qceqfu54pfcl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1015544533696-hsgem1r69gche1ko5ci6qceqfu54pfcl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0vJ51yDtRq0qBjL83h10cpjwkpa6jvrw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1015544533696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.com.timeless_delivery.timeless</string>
+	<key>PROJECT_ID</key>
+	<string>timeless-db-6c53b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>timeless-db-6c53b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1015544533696:ios:e28231e5783f74d8bdd325</string>
+	<key>DATABASE_URL</key>
+	<string>https://timeless-db-6c53b.firebaseio.com</string>
+</dict>
+</plist>

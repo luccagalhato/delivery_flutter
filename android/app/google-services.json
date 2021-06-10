@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015544533696",
+    "firebase_url": "https://timeless-db-6c53b.firebaseio.com",
+    "project_id": "timeless-db-6c53b",
+    "storage_bucket": "timeless-db-6c53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015544533696:android:f8569152674d61eabdd325",
+        "android_client_info": {
+          "package_name": "ca.com.timeless_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015544533696-ijh7r4vsrovimn2k32v1u9gq5f22o81m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3XOBvkmkDL0SAoPWuG5gZ4eIQsfVggJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015544533696-ijh7r4vsrovimn2k32v1u9gq5f22o81m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
